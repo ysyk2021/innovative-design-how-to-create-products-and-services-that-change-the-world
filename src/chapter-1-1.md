@@ -1,5 +1,3 @@
-Defining Innovative Design and Its Importance in Creating Impactful Products and Services
-=======================================================================================================
 
 Innovative design is a critical process for creating products and services that meet the needs of users and drive innovation. But what exactly is innovative design?
 

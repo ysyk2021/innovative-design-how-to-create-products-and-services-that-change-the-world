@@ -1,5 +1,3 @@
-Identifying Metrics for Measuring the Effectiveness of Design
-=============================================================================================
 
 Measuring the impact of design is essential for evaluating the effectiveness of products and services and identifying areas for improvement. By identifying measurable metrics, individuals and organizations can determine whether their design process is leading to positive outcomes. Here are some key metrics for measuring the effectiveness of design:
 

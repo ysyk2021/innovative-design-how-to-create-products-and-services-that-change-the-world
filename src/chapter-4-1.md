@@ -1,5 +1,3 @@
-Developing a Design Strategy That Aligns With Business Goals
-===========================================================================================================
 
 Developing and implementing an effective design strategy requires aligning it with business goals. By understanding the needs and objectives of the organization, individuals and teams can create design strategies that drive innovation and achieve success. Here are some important considerations when developing a design strategy:
 

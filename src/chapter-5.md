@@ -1,5 +1,3 @@
-Building Effective Design Teams
-===============================
 
 Building effective design teams is essential for creating products and services that change the world. By building a culture of collaboration and innovation, creating diverse and cross-functional teams, establishing clear roles and responsibilities, and fostering creativity and experimentation, individuals and organizations can drive innovation and create impactful products and services. Here are some key considerations for building effective design teams:
 

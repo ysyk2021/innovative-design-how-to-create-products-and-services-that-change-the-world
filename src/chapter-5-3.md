@@ -1,5 +1,3 @@
-Establishing Clear Roles and Responsibilities
-==============================================================================
 
 Building effective design teams requires not only diverse and cross-functional team members but also clear roles and responsibilities. By establishing clear expectations for each team member, individuals and organizations can ensure that the product or service development process is efficient and effective. Here are some key considerations for establishing clear roles and responsibilities within design teams:
 

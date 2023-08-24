@@ -1,4 +1,4 @@
-# Conclusion
+
 
 Summarizing the key points of the book:
 ---------------------------------------

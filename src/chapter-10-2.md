@@ -1,5 +1,3 @@
-Encouraging Readers to Adopt Effective Design Practices and Make Lasting Changes to Their Approach to Product and Service Innovation
-================================================================================================================================================
 
 Innovative design is critical for creating products and services that meet the needs of users and drive innovation. By following the principles and components of innovative design, individuals and organizations can create impactful products and services that change the world. As we come to the end of this book, let us reflect on some key takeaways and encourage readers to adopt effective design practices and make lasting changes to their approach to product and service innovation.
 

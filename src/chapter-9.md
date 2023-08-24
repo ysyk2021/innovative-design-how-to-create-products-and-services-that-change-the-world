@@ -1,5 +1,3 @@
-Nurturing Sustainable Growth
-============================
 
 Nurturing sustainable growth is critical for individuals and organizations to achieve long-term success in innovative design. By incorporating ongoing personal and professional development, maintaining balance between different areas of life, and sustaining the innovative design mindset over time, individuals and organizations can achieve sustainable growth. Here are some important considerations when nurturing sustainable growth:
 

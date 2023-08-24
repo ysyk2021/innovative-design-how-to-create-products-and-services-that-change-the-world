@@ -1,5 +1,3 @@
-Building Diverse and Cross-Functional Teams
-============================================================================
 
 Building effective design teams is critical for creating products and services that meet the needs of users and drive innovation. By building diverse and cross-functional teams, individuals and organizations can bring together a range of perspectives, skills, and experiences to achieve success in innovative design. Here are some key considerations for building effective design teams:
 

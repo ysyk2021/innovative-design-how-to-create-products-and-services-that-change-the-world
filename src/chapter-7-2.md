@@ -1,5 +1,3 @@
-Using Human-Centered Design to Solve Complex Problems
-============================================================================================
 
 Human-centered design is a problem-solving approach that focuses on the needs and experiences of users. By placing the needs of users at the center of the design process, individuals and organizations can create products and services that are both innovative and effective. Here are some key considerations for using human-centered design to solve complex problems:
 

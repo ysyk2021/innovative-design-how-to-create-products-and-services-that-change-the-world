@@ -1,5 +1,3 @@
-Applying Innovative Design Techniques
-=====================================
 
 Innovative design techniques can help individuals and organizations create products and services that change the world. Here are some different design techniques and their applications.
 

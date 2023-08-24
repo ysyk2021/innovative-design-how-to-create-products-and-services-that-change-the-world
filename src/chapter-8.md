@@ -1,5 +1,3 @@
-Measuring the Impact of Design
-==============================
 
 Measuring the impact of design is essential for creating products and services that truly change the world. By identifying key metrics, gathering feedback from users and stakeholders, evaluating the impact of design on product and service performance, and making data-driven decisions for design improvement, individuals and organizations can optimize the effectiveness of their designs. Here are some key considerations for measuring the impact of design:
 

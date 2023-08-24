@@ -1,5 +1,3 @@
-Identifying Different Technologies for Design and Their Applications
-====================================================================================================================
 
 Incorporating technology into design processes can help drive innovation and create impactful products and services. However, it can be challenging to identify the different technologies available and their applications in design. Here are some key technologies used in innovative design and their applications:
 

@@ -1,4 +1,4 @@
-# Introduction
+
 
 Innovation is the key to success in today's rapidly changing business environment. Whether you are a startup founder or a seasoned business leader, creating products and services that can change the world is no longer an option - it is a necessity.
 

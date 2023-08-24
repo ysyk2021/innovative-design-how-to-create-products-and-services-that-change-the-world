@@ -1,5 +1,3 @@
-Identifying Common Barriers to Effective Design
-=================================================================================
 
 Effective design is critical for creating products and services that meet the needs of users and drive innovation. However, there are common barriers that can hinder effective design. By identifying these barriers, individuals and organizations can overcome obstacles to successful product and service innovation. Here are some common barriers to effective design:
 

@@ -1,5 +1,3 @@
-Evaluating the Impact of Design on Product and Service Performance
-==================================================================================================
 
 Evaluating the impact of design is essential for understanding the effectiveness of a product or service. By measuring the impact of design, individuals and organizations can identify areas for improvement and optimize the product or service for maximum impact. Here are some key considerations for evaluating the impact of design on product and service performance:
 

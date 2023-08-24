@@ -1,5 +1,3 @@
-Sustaining the Innovative Design Mindset Over Time
-================================================================================
 
 The innovative design mindset is critical for creating products and services that meet the needs of users and drive innovation. However, sustaining this mindset over time requires dedication and effort. Here are some important considerations when sustaining the innovative design mindset:
 

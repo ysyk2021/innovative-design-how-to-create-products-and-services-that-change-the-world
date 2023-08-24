@@ -1,5 +1,3 @@
-Gathering Feedback from Users and Stakeholders
-==============================================================================
 
 Gathering feedback from users and stakeholders is a critical component of measuring the impact of design. By collecting feedback throughout the product or service development process, individuals and organizations can ensure that they are meeting the needs and expectations of their target audience. Here are some key considerations for gathering feedback from users and stakeholders:
 

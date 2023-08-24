@@ -1,5 +1,3 @@
-Summarizing the Key Points of the Book
-==================================================
 
 Innovative design is a critical process for creating products and services that meet the needs of users and drive innovation. Throughout this book, we have explored various principles, components, and considerations for achieving success in innovative design. Here are some key points to remember:
 
