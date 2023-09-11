@@ -1,5 +1,4 @@
-Chapter: Developing a Design Strategy that Aligns with Business Goals
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

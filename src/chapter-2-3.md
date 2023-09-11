@@ -1,5 +1,4 @@
-Chapter: Recognizing the Impact of Design on Product and Service Performance
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
